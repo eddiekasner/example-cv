@@ -231,18 +231,6 @@ New Visions Academy, Minneapolis, MN
 
 \hrule
 
-**Kasner EJ**, Yost MG, Fenske RA. 2018. Assessing the Importance of Residential Proximity with Land-Use Regression Estimates of Pesticide Exposure in Washington State. *In preparation*.
-
-**Kasner EJ**, Prado JB, Yost MG, Seto EWY, Fenske RA. 2018. Wind Ramping as an Indicator of Occupational and Bystander Illness from Pesticide Drift in Washington State, 2000-2015. *In preparation*.
-
-**Kasner EJ**, Hoheisel G, Yost MG, Galvin K, Seto EWY, Fenske RA. 2018. Comparative Evaluation of Orchard Sprayer Technology Based on Potential Worker Exposure to Pesticide Drift. *In preparation*.
-
-Blanco M, Fenske RA, **Kasner EJ**, Yost MG, Austin E. 2018. Real-Time Particle Monitoring of Pesticide Drift Exposure from Three Different Orchard Sprayers. *In preparation*.
-
-**Kasner EJ**, Hoheisel G, Yost MG, Galvin K, Seto EWY, Fenske RA. 2018. Measuring Potential Farmworker Exposure to Pesticide Drift from an Axial Fan Airblast Orchard Sprayer. *Submitted*.
-
-Blanco M, Fenske RA, **Kasner EJ**, Yost MG, Austin E. 2018. Real-Time Particle Monitoring of Pesticide Drift from an Axial Fan Orchard Sprayer. *Submitted*.
-
 Bonnar-Prado J, Mulay P, **Kasner EJ**, Calvert GM. 2017. [Acute Pesticide-Related Illness among Farmworkers: Barriers to Reporting to Public Health Authorities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846675/). J Agromedicine. 22(4):395-405.
 
 Hudson NL, **Kasner EJ**, Beckman J, Mehler L, Schwartz A, Higgins S, Bonnar-Prado J, Lackovic M, Mulay P, Mitchell Y, Larios L, Walker R, Waltz J, Moraga-McHaley S, Roisman R, Calvert GM. 2014. [Characteristics and Magnitude of Acute Pesticide-Related Illnesses and Injuries Associated with Pyrethrin and Pyrethroid Exposures -- 11 States, 2000-2008](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajim.22216). Am J Ind Med. 57(1):15-30. doi: 10.1002/ajim.22216. Epub 2013 Jun 20.
@@ -253,15 +241,9 @@ Hudson NL, **Kasner EJ**, Beckman J, Mehler L, Schwartz A, Higgins S, Bonnar-Pra
 
 \hrule
 
-**Kasner EJ**. 2017. [On Preventing Occupational Exposure to Pesticide Drift in Washington Orchards](https://digital.lib.washington.edu/researchworks/handle/1773/40560). Dissertation. University of Washington.
-
-**Kasner EJ**, Fenske RA, Galvin K, Yost MG, Palmández P. 2016. [Review of Agricultural Spray Notification Systems](http://deohs.washington.edu/pnash/sites/deohs.washington.edu.pnash/files/documents/Review%20Ag%20Spray%20Notification%20Systems%2014jul16_final.pdf). Pacific Northwest Agricultural Safety and Health Center. Seattle, WA.
-
 **Kasner EJ**, Calvert GM. 2013. [Table 1: Pesticides Most Often Implicated in Acute Occupational Pesticide-Related Illness and Injury Cases and Number of Cases. SENSOR-Pesticides Program, 2005-2009 (N=9,906)](https://www.epa.gov/sites/production/files/documents/rmpp_6thed_ch1_intro.pdf). Recognition and Management of Pesticide Poisonings. 6th Edition. US Environmental Protection Agency.
 
 Lopez A. 2012. [Status of Varicella Surveillance and Challenges in the 2-Dose Varicella Vaccination Era](http://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-diseases-training/2012/LopezAdriana.pdf). Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention. *Data collection and analysis contribution from Minnesota Department of Health.*
-
-Assadourian E, **Kasner E**. 2010. [Dietary Norms that Heal People and the Planet. State of the World 2010 - Transforming Cultures: From Consumerism to Sustainability](https://books.google.com/books?id=MLkFvMtHvUsC&pg=PA49&lpg=PA49&dq=Dietary+Norms+that+Heal+People+and+the+Planet&source=bl&ots=Vfrwux42aO&sig=qRX8iU5bpvYJbQNdusJpXUTccPo&hl=en&sa=X&ei=ZKIWUrWaB5DtiQKWnYD4Ag&ved=0CCsQ6AEwAA%23v=onepage&q=Dietary%20Norms%20that%20Heal%20People%20and%20the%20Planet&f=false#v=onepage&q&f=false).
 
 # Lectures & Invited Talks
 
@@ -349,7 +331,7 @@ National Institute for Occupational Safety and Health Webinar                   
 
 *Ad hoc* reviewer for *Journal of Agromedicine*                                           \hfill 2016-present  
 *Ad hoc* reviewer for *American Journal of Industrial Medicine*                           \hfill 2011-present  
-Judge, UW-SPH Undergraduate Student Research Symposium                                    \hfill 2014-2016  
+UW-SPH Undergraduate Student Research Symposium Judge                                     \hfill 2014-2016  
 Supporting Undergraduate Research Experiences in Environmental Health (SURE-EH) Mentor    \hfill 2015-2016  
 Department of Environmental & Occupational Health Sciences Student Advisory Committee     \hfill 2012-2016  
 UW Workers' Memorial Day Planning Committee                                               \hfill 2012-2014  
