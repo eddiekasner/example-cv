@@ -1,4 +1,4 @@
-# Example CV
+# example-cv
 
 This repo provides a template for anyone wanting to write a curriculum vitae using R Markdown. It is a minimal example with dummy code and text to show how all of the elements come together to produce the final document.
 
