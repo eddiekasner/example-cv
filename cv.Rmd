@@ -1,0 +1,429 @@
+---
+title: "CV"
+author: "Edward J. Kasner"
+email: ejkasner@email.edu
+output:
+  pdf_document:
+    latex_engine: lualatex
+    template: ejk-latex-cv.tex
+  html_document: default
+geometry: margin=0.7in
+jobtitle: PhD, MPH, Senior Fellow, UW-DEOHS
+keywords: RMarkdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: 123-456-7890
+address: 1234 St SE, Seattle, WA 12345
+updated: no
+urlcolor: blue
+linkedin: ejkasner
+#github: eddiekasner
+#web: eddiekasner.github.io
+
+---
+
+# Professional Summary
+
+\hrule
+
+Research scientist and public health professional with 10 years of experience in exposure assessment, industrial hygiene, environmental health, occupational health, risk assessment, epidemiology, and agricultural science with a special focus on pesticide use and pollution in the United States and China. Strong interest in open science and community health outcomes. Extensive teaching experience in elementary, middle, and high school, and university settings.
+
+# Education
+
+\hrule
+
+**PhD**, Environmental and Occupational Hygiene, University of Washington, Seattle  \hfill 2017
+
+\setlength{\leftskip}{1cm}
+
+Dissertation: *On Preventing Farmworker Exposure to Pesticide Drift in Washington Orchards*  
+Committee: Richard Fenske (Chair), Michael Yost, Edmund Seto, Gwen Hoheisel, Joanne Prado  
+Core science: Epidemiology  
+
+\setlength{\leftskip}{0pt}
+
+**MPH**, Environmental Health, University of Minnesota, Minneapolis \hfill 2010  
+
+\setlength{\leftskip}{1cm}
+
+Project: *Pesticide Exposure Assessment Among Small Farmers in Yunnan, China*  
+Committee: Bruce Alexander, Matthew Simcik, Jean Johnson  
+Global Health Interdisciplinary Concentration  
+
+\setlength{\leftskip}{0pt}
+
+**BA**, Humanities-Classical Studies, Saint John's University, Collegeville Minnesota \hfill 2004
+
+\setlength{\leftskip}{1cm}
+
+Preprofessional Health Sciences Track, Latin Minor
+
+\setlength{\leftskip}{0pt}
+
+# Specialized Skills
+
+\hrule
+
+- Languages (Proficient: R, Markdown, ArcMap, \LaTeX, SAS, Stata; Intermediate: Python, git, QGIS)
+- Awarded over $9999 for three multi-year research grant proposals
+- IRB application, modification, and management for observational and experimental studies
+- Design of field-based exposure assessment studies and data analysis plans (equipment list below)
+- Technical report writing (R Markdown) and academic manuscripts for peer-reviewed journals
+- Limited working proficiency in Mandarin Chinese
+
+# Research Experience
+
+\hrule
+
+**Senior Fellow**, Seattle, WA \hfill Oct 2017 - present  
+University of Washington School of Public Health  
+Department of Environmental and Occupational Health Sciences  
+Program: [Pacific Northwest Agricultural Safety and Health Center](http://deohs.washington.edu/pnash/)
+
+- Co-authored 5 articles related to dissertation work for submission to peer-reviewed journals
+- Coordinated 5-year NIOSH-funded project: *Prevention of Occupational Exposure to Pesticide Drift*
+- Served as topic expert for Washington Senate Bill 6549: *Pesticide Application Safety Work Group*
+
+\vspace{2 mm}
+
+**Graduate Student Intern**, Olympia, WA \hfill Mar 2015 - Oct 2017  
+Washington State Department of Health  
+Office of Environmental Public Health Sciences  
+Program: [Pesticide Illness Surveillance](https://www.doh.wa.gov/AboutUs/ProgramsandServices/EnvironmentalPublicHealth/EnvironmentalPublicHealthSciences/Pesticides)
+
+- Conducted exposure assessment for pesticide drift events involving humans in 2000-2015
+- Geocoded drift event locations to find spatial extent using R and ArcMAP geoprocessing tools
+- Analyzed 15-min meteorological data from 170 weather stations (57 million rows)
+- Prepared technical report about findings that became dissertation chapter
+
+\vspace{2 mm}
+
+**Graduate Student Research Assistant**, Seattle, WA \hfill Sep 2012 - Sep 2017  
+University of Washington School of Public Health  
+Department of Environmental and Occupational Health Sciences  
+Program: [Pacific Northwest Agricultural Safety and Health Center](http://deohs.washington.edu/pnash/)
+
+- Collected meteorological, GPS, air/water sample measurements and managed database with R
+- Supervised field research staff and undergraduate/graduate students for 3 different projects
+- Served on committee for M.S student (Magali Blanco: *Real-time Monitoring of Pesticide Drift*)
+- Prepared technical reports and academic manuscripts for peer-reviewed journals
+- Presented at multiple exposure science, agricultural safety, and tree fruit industry meetings
+
+\vspace{2 mm}
+
+**Research Epidemiologist Fellow**, Cincinnati, OH \hfill Aug 2010 - Aug 2012  
+Centers for Disease Control and Prevention  
+National Institute for Occupational Safety and Health  
+Division of Surveillance, Hazard Evaluations, and Field Studies  
+Program: [Sentinel Event Notification System for Occupational Risks (SENSOR)-Pesticides](https://www.cdc.gov/niosh/topics/pesticides/overview.html)
+
+- Co-authored 2 articles in peer-reviewed journals about acute pesticide illnesses
+- Managed national database using SAS for 12+ years of reports from state health departments
+- Organized 3 workshops for state program epidemiologists, CDC-NIOSH, US EPA, and stakeholders
+- Designed and facilitated 3 standardized variable database coding exercisees
+- Investigated unusual exposure and illness case reports for US EPA and state programs
+- Coordinated monthly seminar for Pesticide Interest Group of 30 research scientists
+
+\vspace{2 mm}
+
+**Paraprofessional-Senior Epidemiologist**, Saint Paul, MN \hfill Oct 2009 - Aug 2010  
+Minnesota Department of Health  
+Infectious Disease Epidemiology, Prevention and Control Division  
+Immunization, Tuberculosis and International Health Section  
+Surveillance/Assessment Unit  
+Program: [Sentinel School Surveillance Varicella Outbreak Reporting](http://www.health.state.mn.us/divs/idepc/newsletters/dcn/sum12/varicella.html)
+
+- Interviewed school nurses and parents of *Varicella zoster* cases among 80 sentinel schools
+- Assisted with CDC outbreak reporting and data management for *Varicella zoster* virus
+- Initiated investigation, prophylaxis, and follow-up of suspected *Bordatella pertussis* cases
+- Requested medical records from hospitals with cases of suspicious *Hepatitis* lab reports
+- Contributed to report about *Varicella* vaccination rates in Minnesota schools
+- Answered calls made to public hotline for *H1N1 Influenza*
+
+\vspace{2 mm}
+
+**Guest Researcher**, Kunming, Yunnan, China \hfill Jun 2009 - Aug 2009  
+Program: [Pesticide Eco-Alternatives Center (PEAC)](http://www.panchina.org/en_index.aspx)
+
+- Conducted pesticide exposure assessment for 52 farmers in a rural village of Yunnan Province
+- Presented research plans, project results, and lecture about pesticide risk assessment framework
+- Piloted informal survey of local farmers about water use, pesticide laws, and food production
+- Facilitated discussions about agriculture, pesticides, and China-United States relations
+
+# Teaching Experience
+
+\hrule
+
+**Postgraduate Teaching Assistant**, [*Human Exposure to Environmental Contaminants*](http://www.washington.edu/students/crscat/envh.html#envh551) \hfill Fall Quarter 2017  
+University of Washington School of Public Health, Seattle, WA
+
+- Lectured and facilitated disccusions about exposure pathways and risk communication
+- Applied box and plume models to assess fate and transport of environmental contaminants
+- Taught statistical exposure estimation for chemical, biological, and physical hazards
+- Provided homework support to students outside of class about exposure assessment methods
+- Managed course website content with *Canvas* and *Panopto* platforms
+
+\vspace{2 mm}
+
+\newpage
+
+**Graduate Teaching Assistant**, [*Environmental Risk and Society*](http://www.washington.edu/students/crscat/envh.html#envh572) \hfill Fall Quarters 2014 & 2015  
+University of Washington School of Public Health, Seattle, WA
+
+- Lectured and facilitated discussions about exposure pathways and final exam review
+- Examined use of risk assessment and management in context of public health controversies
+- Provided homework support to students outside of class about risk assessment methods
+- Managed course website content with *Canvas* and *Panopto* platforms
+
+\vspace{2 mm}
+
+**Graduate Teaching Assistant**, [*Occupational and Environmental Epidemiology*](http://www.washington.edu/students/crscat/envh.html#envh570) \hfill Spring Quarter 2014  
+University of Washington School of Public Health, Seattle, WA
+
+- Assisted with restructuring of graduate-level course cross-listed in Epidemiology Department
+- Used case-oriented approach to cover study designs, exposure estimation, and study biases
+- Provided homework support to students for statistical programming and research methods
+- Managed course website content with *Canvas* and *Tegrity* platforms
+
+\vspace{2 mm}
+
+**Professional Tutor** \hfill Oct 2006 - Aug 2010  
+[Academic Tutoring and Testing](https://www.acatutor.org/), Minneapolis, MN
+
+- Designed individualized study plans for 50+ middle, high school, and college students
+- Taught American College Testing (ACT) exam preparation strategies to 25+ high school students
+- Specialized in Geometry, Algebra, Biology, Chemistry, English, History, Latin, and Chinese
+
+\vspace{2 mm}
+
+**Educational Assistant**, Special Education \hfill Sep 2006 - Jun 2008  
+New Visions Academy, Minneapolis, MN
+
+- Taught at Title I, K-8, charter school comprised of 80%+ underrepresented students
+- Supported students with Cognitive, Autism Spectrum, and Emotional Behavioral Disorders
+- Delivered classroom services for students with Individualized Education Programs (IEP)
+- Assisted with lesson planning, grading, and classroom support for 28 students in first grade
+
+\vspace{2 mm}
+
+**English as a Foreign Language Instructor** \hfill Aug 2005 - Jul 2006  
+[Zhanjiang Normal University](http://www.at0086.com/ZJNC/), Guangdong, China
+
+- Taught *Speaking*, *Writing*, *Intercultural Communication*, & *Culture of English-Speaking Countries*
+- Advised 3 students for *Senior Thesis Seminar*
+- Coordinated weekly "English Corner" campus event
+- Designed course for International English Language Teaching System (IELTS) Exam preparation
+- Lectured at 10+ rural middle schools
+- Attained proficiency in Mandarin Chinese
+- Coached and played on English department basketball team
+
+\vspace{2 mm}
+
+**English as a Foreign Language Instructor** \hfill Aug 2004 - Jun 2005  
+[Qujing Normal University](http://www.qjnu.edu.cn/), Yunnan, China
+
+- Taught *Speaking*, *Writing*, & *Audio-Visual*
+- Coordinated weekly "English Corner" campus event
+- Facilitated student organization that provided tuition and medical assistance to students
+- Coached and played on English department basketball team
+
+# Peer-Reviewed Publications
+
+\hrule
+
+**Kasner EJ**, Yost MG, Fenske RA. 2018. Assessing the Importance of Residential Proximity with Land-Use Regression Estimates of Pesticide Exposure in Washington State. *In preparation*.
+
+**Kasner EJ**, Prado JB, Yost MG, Seto EWY, Fenske RA. 2018. Wind Ramping as an Indicator of Occupational and Bystander Illness from Pesticide Drift in Washington State, 2000-2015. *In preparation*.
+
+**Kasner EJ**, Hoheisel G, Yost MG, Galvin K, Seto EWY, Fenske RA. 2018. Comparative Evaluation of Orchard Sprayer Technology Based on Potential Worker Exposure to Pesticide Drift. *In preparation*.
+
+Blanco M, Fenske RA, **Kasner EJ**, Yost MG, Austin E. 2018. Real-Time Particle Monitoring of Pesticide Drift Exposure from Three Different Orchard Sprayers. *In preparation*.
+
+**Kasner EJ**, Hoheisel G, Yost MG, Galvin K, Seto EWY, Fenske RA. 2018. Measuring Potential Farmworker Exposure to Pesticide Drift from an Axial Fan Airblast Orchard Sprayer. *Submitted*.
+
+Blanco M, Fenske RA, **Kasner EJ**, Yost MG, Austin E. 2018. Real-Time Particle Monitoring of Pesticide Drift from an Axial Fan Orchard Sprayer. *Submitted*.
+
+Bonnar-Prado J, Mulay P, **Kasner EJ**, Calvert GM. 2017. [Acute Pesticide-Related Illness among Farmworkers: Barriers to Reporting to Public Health Authorities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846675/). J Agromedicine. 22(4):395-405.
+
+Hudson NL, **Kasner EJ**, Beckman J, Mehler L, Schwartz A, Higgins S, Bonnar-Prado J, Lackovic M, Mulay P, Mitchell Y, Larios L, Walker R, Waltz J, Moraga-McHaley S, Roisman R, Calvert GM. 2014. [Characteristics and Magnitude of Acute Pesticide-Related Illnesses and Injuries Associated with Pyrethrin and Pyrethroid Exposures -- 11 States, 2000-2008](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajim.22216). Am J Ind Med. 57(1):15-30. doi: 10.1002/ajim.22216. Epub 2013 Jun 20.
+
+**Kasner EJ**, Keralis JM, Mehler L, Beckman J, Bonnar-Prado J, Lee S, Diebolt-Brown B, Mulay P, Lackovic M, Waltz J, Schwartz A, Mitchell Y, Moraga-McHaley S, Roisman R, Gergely R, Galvert, GM. 2012. [Gender Differences in Acute Pesticide-Related Illnesses and Injuries among Farmworkers in the United States, 1998-2007](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajim.22052). Am J Ind Med. 55(7):571-583. doi: 10.1002/ajim.22052. Epub 2012 Apr 11.
+
+# Other Publications & Contributions
+
+\hrule
+
+**Kasner EJ**. 2017. [On Preventing Occupational Exposure to Pesticide Drift in Washington Orchards](https://digital.lib.washington.edu/researchworks/handle/1773/40560). Dissertation. University of Washington.
+
+**Kasner EJ**, Fenske RA, Galvin K, Yost MG, Palmández P. 2016. [Review of Agricultural Spray Notification Systems](http://deohs.washington.edu/pnash/sites/deohs.washington.edu.pnash/files/documents/Review%20Ag%20Spray%20Notification%20Systems%2014jul16_final.pdf). Pacific Northwest Agricultural Safety and Health Center. Seattle, WA.
+
+**Kasner EJ**, Calvert GM. 2013. [Table 1: Pesticides Most Often Implicated in Acute Occupational Pesticide-Related Illness and Injury Cases and Number of Cases. SENSOR-Pesticides Program, 2005-2009 (N=9,906)](https://www.epa.gov/sites/production/files/documents/rmpp_6thed_ch1_intro.pdf). Recognition and Management of Pesticide Poisonings. 6th Edition. US Environmental Protection Agency.
+
+Lopez A. 2012. [Status of Varicella Surveillance and Challenges in the 2-Dose Varicella Vaccination Era](http://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-diseases-training/2012/LopezAdriana.pdf). Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention. *Data collection and analysis contribution from Minnesota Department of Health.*
+
+Assadourian E, **Kasner E**. 2010. [Dietary Norms that Heal People and the Planet. State of the World 2010 - Transforming Cultures: From Consumerism to Sustainability](https://books.google.com/books?id=MLkFvMtHvUsC&pg=PA49&lpg=PA49&dq=Dietary+Norms+that+Heal+People+and+the+Planet&source=bl&ots=Vfrwux42aO&sig=qRX8iU5bpvYJbQNdusJpXUTccPo&hl=en&sa=X&ei=ZKIWUrWaB5DtiQKWnYD4Ag&ved=0CCsQ6AEwAA%23v=onepage&q=Dietary%20Norms%20that%20Heal%20People%20and%20the%20Planet&f=false#v=onepage&q&f=false).
+
+# Lectures & Invited Talks
+
+\hrule
+
+**On Preventing Farmworker Exposure to Pesticide Drift in Washington Orchards**           \hfill Aug 2017  
+UW-Department of Environmental and Occupational Health Sciences                           \hfill Seattle, WA  
+
+**Exposure Monitoring and Assessment of Pesticide Drift in Agricultural Settings**        \hfill Apr 2016  
+Conference for Indigenous Health                                                          \hfill Mount Vernon, WA  
+
+**Farmwork, Pesticides, and Public Health**                                               \hfill Apr 2015  
+Panel Discussion Common Book Series Event for UW Health Sciences Students                 \hfill Seattle, WA  
+
+# Conference Presentations
+
+\hrule
+
+**Use of Meteorological Data to Strengthen Public Health Surveillance of**  
+**Risk and Disease, Response and Prevention**                                             \hfill Sep 2017  
+8th Annual Northwest Climate Conference                                                   \hfill Tacoma, WA  
+
+**Minimizing Pesticide Drift: Evaluation of New Technologies to Reduce the**  
+**Risk of Pesticide-Related Illness among Tree Fruit Orchard Workers**                    \hfill Oct 2015  
+International Society of Exposure Science 25th Annual Meeting                             \hfill Henderson, NV  
+
+**Using Data to Protect Workers and Others from Pesticide Drift**                         \hfill May 2014  
+Washington State Environmental Health Association Annual Educational Conference           \hfill Grand Mound, WA  
+
+# Poster Presentations
+
+\hrule
+
+**Comparative Evaluation of Orchard Sprayer Technology Based on**  
+**Pesticide Drift Exposure Potential**                                                    \hfill Oct 2017  
+International Society of Exposure Science 27th Annual Meeting                             \hfill Research Triangle Park, NC  
+
+**Notification of Pesticide Applications to Minimize Workplace Exposures:**                
+**A Feasibility Study**                                                                   \hfill Oct 2014  
+International Society of Exposure Science 24th Annual Meeting                             \hfill Cincinnati, OH
+
+**Community Exposures to Pesticide Drift in Agricultural Regions of Washington**          \hfill Jan 2014  
+Annual Semiahmoo Symposium                                                                \hfill Blaine, WA  
+
+**Gender Differences in Acute Pesticide-Related Illnesses and Injuries Among**  
+**Farmworkers in the United States, 1998-2007**                                           \hfill Oct 2011  
+American Public Health Association Conference                                             \hfill Washington, DC  
+
+**Exposure Assessment of Pesticide Use among Small Farmers in Yunnan, China**             \hfill Jun 2010  
+National Environmental Health Association Conference                                      \hfill Albuquerque, NM
+
+# Workshop Presentations
+
+\hrule
+
+**[Writing a Dissertation with Knitr and Markdown](https://github.com/eddiekasner/example-dissertation)**   \hfill Nov 2017  
+DEOHS Informatics Meet-Up                                                                 \hfill Seattle, WA  
+
+**Occupational Exposure to Pesticide Drift**                                              \hfill Mar 2016  
+SENSOR-Pesticides Annual Winter Workshop                                                  \hfill Seattle, WA  
+
+**Disrupting the Pesticide Drift Exposure Pathway: Evaluation of New Technologies**  
+**to Reduce the Risk of Pesticide-Related Illness among Tree Fruit Orchard Workers**      \hfill Feb 2015  
+SENSOR-Pesticides Annual Winter Workshop                                                  \hfill New Orleans, LA
+
+**A Comparison of Report Sources Update: Occupational Pesticide Poisoning**  
+**Reported by AAPCC and SENSOR-Pesticides, 1998-2003 and 2006-2008**                      \hfill Jan 2012  
+SENSOR-Pesticides Annual Winter Workshop                                                  \hfill Austin, TX
+
+**A Comparison of Report Sources: Occupational Pesticide Poisoning Reported**  
+**by AAPCC, SENSOR, and CDPR, 1998-2003 and 2006-2007**                                   \hfill Jul 2011  
+National Institute for Occupational Safety and Health Webinar                             \hfill Cincinnati, OH  
+
+**Standardized Database Coding Exercise Results and Discussions**
+
+- SENSOR-Pesticides Winterfest Workshop                                                   \hfill Seattle, WA; Mar 2016
+- National Institute for Occupational Safety and Health Webinar                           \hfill Cincinnati, OH; Jul 2012
+- SENSOR-Pesticides Winterfest Workshop                                                   \hfill Austin, TX; Jan 2012
+- Council for State and Territorial Epidemiologists Conference                            \hfill Pittsburgh, PA; Jun 2011
+- SENSOR-Pesticides Winterfest Workshop                                                   \hfill Washington, DC; Jan 2011
+
+# Service to Department, Profession, & University
+
+\hrule
+
+*Ad hoc* reviewer for *Journal of Agromedicine*                                           \hfill 2016-present  
+*Ad hoc* reviewer for *American Journal of Industrial Medicine*                           \hfill 2011-present  
+Judge, UW-SPH Undergraduate Student Research Symposium                                    \hfill 2014-2016  
+Supporting Undergraduate Research Experiences in Environmental Health (SURE-EH) Mentor    \hfill 2015-2016  
+Department of Environmental & Occupational Health Sciences Student Advisory Committee     \hfill 2012-2016  
+UW Workers' Memorial Day Planning Committee                                               \hfill 2012-2014  
+
+\newpage
+
+# Membership in Professional Societies
+
+\hrule
+
+International Society of Exposure Science                                                 \hfill 2012-present  
+Council for State and Territorial Epidemiologists                                         \hfill 2011-2013  
+Toastmasters International                                                                \hfill 2011-2013  
+American Public Health Association                                                        \hfill 2008-2013  
+National Environmental Health Association                                                 \hfill 2008-2010  
+
+# Licensing & Training
+
+\hrule
+
+Collaborative Institutional Training Initiative (CITI Program), Human Subjects, Stage 1   \hfill 2016  
+Certified Pesticide Applicator-Private, Washington State                                  \hfill 2015-present  
+Community Science Data Workshop, Python                                                   \hfill 2014  
+Emergency Medical Technician-Basic                                                        \hfill 2003-2004
+
+# Honors
+
+\hrule
+
+**Senior Fellow**, Department of Environmental and Occupational Health Sciences, UW-Seattle     \hfill 2017-2018  
+**Fellow**, Association of Schools of Public Health, CDC-EPA                                    \hfill 2010-2012  
+**Awardee**, Myers Endowment for International Experience in Public Health, UM-Minneapolis      \hfill 2009  
+**Fellow**, Walter H. Judd Graduate and Professional International Fellowship, UM-Minneapolis   \hfill 2009  
+
+# Dissertation Abstract
+
+\hrule
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer odio augue, sagittis ac mauris ac, sagittis bibendum ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus id tortor sem. Aliquam sit amet nisi ac dui accumsan egestas consequat id felis. Ut interdum nisl facilisis erat pharetra facilisis. Integer blandit fermentum urna, ut eleifend nulla tristique non. Nullam consequat justo sed neque rutrum viverra. Vestibulum at tristique ante. Suspendisse consequat ut nulla sed pharetra. Fusce finibus nec metus id fermentum. Phasellus efficitur nisl sit amet lectus congue imperdiet.
+
+Donec at mollis neque. Mauris ac laoreet velit. Donec consequat, sapien quis congue lacinia, leo lectus ultrices ex, ut mattis ante eros non lectus. Vestibulum in tristique orci, eget pharetra diam. Sed in tempus massa, ut tempus diam. Mauris eget vehicula nulla, id aliquam orci. Nulla laoreet nisi at quam facilisis cursus. Proin sit amet metus metus. Cras a porta orci. Aliquam eros ipsum, ultrices nec molestie eget, aliquet vitae magna. Donec ornare, orci nec ullamcorper ornare, purus leo imperdiet neque, vel bibendum tortor nisi nec nisl. Praesent in ipsum metus.
+
+Nam ultrices tempor venenatis. Proin nec nulla tristique diam ornare auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent non felis magna. Proin eget malesuada mi. Curabitur tincidunt augue viverra augue dictum, nec placerat justo consectetur. Integer pellentesque massa imperdiet dolor dictum, in tempus sem imperdiet. In at tincidunt nisi. Fusce eleifend quis dolor quis egestas. Integer facilisis convallis sollicitudin. Donec volutpat tempus rhoncus.
+
+\newpage
+
+# Master's Project Abstract
+
+\hrule
+
+Sed cursus erat eget iaculis volutpat. Fusce congue aliquam magna, eget condimentum eros. Donec fringilla lorem leo, eget vulputate eros ullamcorper ut. Proin ut ligula vitae libero rutrum rhoncus ut in ex. Donec scelerisque sodales tortor, vitae dapibus ipsum dapibus ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec pulvinar aliquet tortor, nec posuere lacus vehicula vel. Praesent venenatis ligula nec ligula scelerisque eleifend. Phasellus at ipsum a enim finibus luctus. Nulla facilisi. Pellentesque a purus purus. Quisque vulputate consequat urna id eleifend. Morbi tristique consectetur justo, id laoreet lectus molestie a.
+
+Curabitur bibendum enim ut odio vestibulum faucibus. Morbi vitae finibus enim, ac tincidunt purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque, velit sit amet egestas varius, massa massa vestibulum tortor, et semper nunc mauris vitae nibh. Fusce mi diam, accumsan et pellentesque a, dictum non sem. Aliquam nec elit est. Suspendisse nec euismod enim. Suspendisse suscipit nulla ut felis auctor, sit amet condimentum nunc dignissim. Donec aliquet risus ligula, ac efficitur odio consequat placerat. Duis tincidunt nec nunc nec consequat. Curabitur elit tortor, sagittis iaculis ligula et, accumsan vulputate nibh. In hac habitasse platea dictumst. Duis quis felis posuere, molestie arcu nec, commodo velit.
+
+# Monitoring Equipment & Experience
+
+\hrule
+
+* Meteorological station (10-meter)
+    + PC200W datalogger support software for CR1000
+    + HMP45C temperature and relative humidity probe
+    + Model 109 (T109C) temperature probe
+    + Met One 034B wind sensor
+    + RM Young Model 81000V 3-axis ultrasonic anemometer
+* Air sampling devices
+    + Draeger Tube Pump and gas sampling tubes
+    + Charcoal tubes and passive badges
+    + SKC Airchek 2000 sampling pump
+    + MSA personal sampling pump
+    + Rotameter
+    + DryCal Defender calibration tool
+    
+# References
+
+\hrule
+
+Available upon request.
